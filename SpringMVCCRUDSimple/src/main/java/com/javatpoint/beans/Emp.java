@@ -5,7 +5,8 @@ private int id;
 private String name;  
 private float salary;  
 private String designation;  
-  
+
+  //pojo class
 public int getId() {  
     return id;  
 }  
