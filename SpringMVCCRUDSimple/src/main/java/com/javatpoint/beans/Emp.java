@@ -6,7 +6,8 @@ private String name;
 private float salary;  
 private String designation;  
 
-  //pojo class
+  //pojo class removed and tested
+//added
 public int getId() {  
     return id;  
 }  
