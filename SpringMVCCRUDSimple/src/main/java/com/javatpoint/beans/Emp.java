@@ -7,6 +7,7 @@ private float salary;
 private String designation;  
 
   //pojo class
+  //testing
 public int getId() {  
     return id;  
 }  
